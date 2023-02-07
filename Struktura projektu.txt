@@ -1,0 +1,3 @@
+Testy statystyczne - jaki jest rozkład punktów za styl? Weźmiemy pod uwage 5 sędziów, nie 3
+Analiza zależności zmiennych: odległość vs styl, wiatr vd styl
+Hipotezy statystyczne: ktoś tam miał średnio tyle a tyle za styl
