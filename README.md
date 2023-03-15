@@ -13,7 +13,17 @@ In this project I would like to gather data from couple of seasons and check, if
 (*GERMAN JUDGE ALWAYS SCORES POLISH JUMPERS LOWER THAN HE SHOULD!!!111*) was right. This is my final project of statistics course in my postgraduate studies 
 of Data Analysis and Data Science.  
   
-This project consists of two main parts: Data acquisition and its analysis. 
+This project consists of two main parts: Data acquisition and its analysis. It was pretty hard to gather all the data since it was stored in .pdf files, which do not
+have any structure of keeping the data, so there was plenty of archeological work to extract all scores and data. I have prepared some functions responsible for particular tasks and got the job done - I have presented it in the notebook. All the data is stored in pandas DataFrames and sqlite external database.  
+After that I have analysed the results to check my initial hypothesis. Do you also want to know if it was true? Check the notebook!  
+  
+Below there are some cool charts created during my work:  
+<p align="center">
+  <img src="img/img1.png" alt="Chart 1">
+  <br />
+  <br />
+  <img src="img/img3.png" alt="Chart 2">
+</p>
 
 ## Motivation  
   
@@ -23,4 +33,6 @@ In this project I have learned some pretty useful skills:
  - SQL and pandas - data manipulation using them
  - Seaborn - creating various charts
 
-## Possible upgrades
+## Possible upgrades  
+  
+Mainly there is much more data to gather, but during time .pdf files changed their format and it complicated data acquisition process. In fact, the main point of the project was to learn some new skills, so I considered this amount sufficient.
